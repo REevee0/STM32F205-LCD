@@ -1,4 +1,4 @@
-# F2LCD
+# STM32F205-LCD
 STM32F205RCT6 LCD  library
 
 LCD display library for STM32F205RCT6.
